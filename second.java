@@ -8,5 +8,6 @@ public class code
 		int b=20;
 		int c;
 		c=a+b;
+		System.out.println(c);
 	}
 }
